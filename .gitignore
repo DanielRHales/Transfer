@@ -1,0 +1,10 @@
+.gitignore
+.idea/workspace.xml
+.idea/inspectionProfiles/
+.idea/kotlinc.xml
+target/
+unused/
+META-INF/
+proguard/
+src/test/
+src/main/resources/
